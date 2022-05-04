@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Necip Asik!
-- 📫 How to reach me from ncpasik@gmail.com
+- 📫 Reach me from ncpasik@gmail.com
 
 <!---
 Astosi/Astosi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
