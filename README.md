@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Necip, a Data Engineer currently working at University Housing in Utrecht, Netherlands. I have a strong background in Python programming.<br><br>🤝 I'm looking to collaborate on exciting projects in python programming, data engineering and machine learning.<br><br> 💬 Ask me about my experience with Python, data engineering, AI/ML algorithms.<br><br>🎉 Fun fact: In my spare time, I enjoy writing, traveling, bike-packing, camping, and making music.<br><br>Feel free to check out my CV or reach out to me via my LinkedIn profile or email. Let's connect and create something amazing together!
+👋 Hi there! I'm Necip, a Software Engineer located in the Netherlands. I have a strong background in Python programming.<br><br>🤝 I'm looking to collaborate on exciting projects in python programming, data engineering and machine learning.<br><br> 💬 Ask me about my experience with Python, data engineering, AI/ML algorithms.<br><br>🎉 Fun fact: In my spare time, I enjoy writing, traveling, bike-packing, camping, and making music.<br><br>Feel free to check out my CV or reach out to me via my LinkedIn profile or email. Let's connect and create something amazing together!
 
 
 ## 🌐 Socials:
